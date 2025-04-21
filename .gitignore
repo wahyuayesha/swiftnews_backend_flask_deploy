@@ -1,0 +1,17 @@
+# abaikan file environment
+.env
+
+# abaikan folder upload user
+uploads/
+
+# __pycache__ folder dari Python
+__pycache__/
+
+# file compiled python
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings (kalau pakai VSCode)
+.vscode/
